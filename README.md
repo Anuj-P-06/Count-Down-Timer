@@ -37,7 +37,7 @@ A simple, responsive web app that lets users input a **future date and time**, a
 ---
 
 ## 📁 Folder Structure
-<pre lang="markdown"> ``` countDownTimer/ ├── index.html # Main HTML file ├── style.css # Styling and layout └── script.js # Countdown logic and interactivity ``` </pre>
+<pre> ``` countDownTimer/ ├── index.html # Main HTML file ├── style.css # Styling and layout └── script.js # Countdown logic and interactivity ``` </pre>
 ## 🧠 Technologies Used
 
 - HTML5
