@@ -12,7 +12,7 @@ A simple, responsive web app that lets users input a **future date and time**, a
 
 ## 📸 Preview
 
-![Countdown Timer Preview](<img width="1919" height="913" alt="Image" src="https://github.com/user-attachments/assets/08703df3-9bde-4509-b21e-dcdf46df9d05" />)
+![Countdown Timer Preview]<img width="1919" height="913" alt="Image" src="https://github.com/user-attachments/assets/08703df3-9bde-4509-b21e-dcdf46df9d05" />
 
 ---
 
