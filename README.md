@@ -12,22 +12,21 @@ A simple, responsive web app that lets users input a **future date and time**, a
 
 ## 📸 Preview
 
-![Countdown Timer Preview](https://user-images.githubusercontent.com/YOUR_USERNAME/preview-image.png)
-> _You can upload a screenshot to your repo or use a live capture service (like [Carbon](https://carbon.now.sh/) or [shot.screenshotapi.net](https://shot.screenshotapi.net)) and replace this link._
+![Countdown Timer Preview](<img width="1919" height="913" alt="Image" src="https://github.com/user-attachments/assets/08703df3-9bde-4509-b21e-dcdf46df9d05" />)
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📅 User inputs custom date & time
-- ⏱️ Displays real-time countdown in **Days, Hours, Minutes, Seconds**
-- 📊 Animated progress bar shows countdown completion
-- ⚠️ Validates if the entered date is in the future
-- 🎯 Mobile-friendly and clean UI
+-  User inputs custom date & time
+-  Displays real-time countdown in **Days, Hours, Minutes, Seconds**
+-  Animated progress bar shows countdown completion
+-  Validates if the entered date is in the future
+-  Mobile-friendly and clean UI
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User inputs a date (`dd/mm/yyyy`) and time (`hh/mm/ss`)
 2. JavaScript parses and validates the input
